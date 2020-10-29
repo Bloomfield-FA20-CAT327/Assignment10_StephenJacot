@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Fire
+  - Red
+  - Guitar
+  - Bass
+  - Flute
+  - Drums
+  - Saxophone
+  - Tamborine
   layers:
   - Default
   - TransparentFX
